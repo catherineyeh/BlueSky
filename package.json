@@ -1,0 +1,23 @@
+{
+  "name": "bluesky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BlueSkyMod0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/catherineyeh/BlueSky.git"
+  },
+  "author": "Chia-Hui Yeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catherineyeh/BlueSky/issues"
+  },
+  "homepage": "https://github.com/catherineyeh/BlueSky#readme",
+  "dependencies": {
+    "file-size": "^1.0.0",
+    "plotly": "^1.0.6"
+  }
+}
